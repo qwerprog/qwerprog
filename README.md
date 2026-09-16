@@ -18,9 +18,9 @@
 ## Coding This Week
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-427%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
@@ -51,46 +51,45 @@ Sunday                   124 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    15 hrs 21 mins      ██████████████████░░░░░░░   73.53 % 
-Java                     2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Bash                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-conf                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Other                    11 hrs 3 mins       █████████████████░░░░░░░░   67.57 % 
+Bash                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Java                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Python                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+JavaScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 🔥 Editors: 
-Antigravity CLI          12 hrs 21 mins      ███████████████░░░░░░░░░░   59.15 % 
-Neovim                   5 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
-IntelliJ IDEA            2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Codex CLI                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Termius                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Antigravity CLI          8 hrs 56 mins       ██████████████░░░░░░░░░░░   54.64 % 
+Neovim                   5 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   33.02 % 
+IntelliJ IDEA            1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Codex CLI                37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Vim                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-Mac                      17 hrs 30 mins      █████████████████████░░░░   83.80 % 
-Linux                    3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Mac                      10 hrs 53 mins      █████████████████░░░░░░░░   66.56 % 
+Linux                    5 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   33.44 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 35 mins (84.24%)
+⏱ AI Coding Time: 14 hrs 14 mins (87.13%)
 
-✍️ 81 lines written by AI, 452 lines written by hand (15.2% AI-written)
+✍️ 1,914 lines written by AI, 415 lines written by hand (82.18% AI-written)
 
-🔤 574,563 Input Tokens, 15,672 Output Tokens
+🔤 178,469 Input Tokens, 67,792 Output Tokens
 
-💵 $3.66 Estimated AI Cost This Week
+💵 $11.11 Estimated AI Cost This Week
 
-🧠 119 AI Sessions, 334 AI Prompts
+🧠 114 AI Sessions, 274 AI Prompts
 
-GPT                      81 lines            █████████████████████████   100.00 % 
-Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      1,914 lines         █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 15.2% of written lines came from AI
-📄 Detailed Prompter — average 598 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 85.69% of changed lines were hand-edited
+🤖 AI-Driven — 82.18% of written lines came from AI
+📄 Detailed Prompter — average 859 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 18.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -110,5 +109,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/qwerprog/qwerprog/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 04:36:33 UTC
+ Last Updated on 16/09/2026 04:32:09 UTC
 <!--END_SECTION:waka-->
