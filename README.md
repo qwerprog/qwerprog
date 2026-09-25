@@ -51,42 +51,42 @@ Sunday                   124 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    17 hrs 5 mins       ████████████████████░░░░░   80.56 % 
-Rust                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-conf                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Other                    17 hrs 36 mins      █████████████████████░░░░   83.79 % 
+Rust                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Text                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   35.16 % 
-Antigravity CLI          6 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   32.32 % 
-Codex CLI                5 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   26.75 % 
-Zed                      1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Neovim                   9 hrs 15 mins       ███████████░░░░░░░░░░░░░░   44.05 % 
+Codex CLI                5 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   27.01 % 
+Antigravity CLI          4 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
+Zed                      1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
 
 💻 Operating System: 
-Linux                    21 hrs 13 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 8 mins (94.92%)
+⏱ AI Coding Time: 20 hrs 5 mins (95.63%)
 
-✍️ 2,433 lines written by AI, 5 lines written by hand (99.79% AI-written)
+✍️ 2,433 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 1,790,117 Input Tokens, 171,382 Output Tokens
 
 💵 $55.48 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 274 AI Prompts
+🧠 37 AI Sessions, 265 AI Prompts
 
 GPT                      2,443 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.79% of written lines came from AI
-📝 Concise Prompter — average 114 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 117 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 1.37% of changed lines were hand-edited
+🚀 High AI Trust — 1.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -106,5 +106,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/qwerprog/qwerprog/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 04:26:06 UTC
+ Last Updated on 25/09/2026 04:37:25 UTC
 <!--END_SECTION:waka-->
