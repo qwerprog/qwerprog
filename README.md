@@ -27,21 +27,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                75 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-🌆 Daytime                173 commits         █████████░░░░░░░░░░░░░░░░   37.94 % 
-🌃 Evening                124 commits         ███████░░░░░░░░░░░░░░░░░░   27.19 % 
-🌙 Night                  84 commits          █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+🌞 Morning                75 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+🌆 Daytime                173 commits         █████████░░░░░░░░░░░░░░░░   37.12 % 
+🌃 Evening                134 commits         ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+🌙 Night                  84 commits          █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Tuesday                  48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Wednesday                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Thursday                 100 commits         █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-Friday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Saturday                 70 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Sunday                   125 commits         ███████░░░░░░░░░░░░░░░░░░   27.41 % 
+Monday                   71 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Tuesday                  48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Wednesday                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Thursday                 100 commits         █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+Friday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Saturday                 70 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Sunday                   125 commits         ███████░░░░░░░░░░░░░░░░░░   26.82 % 
 ```
 
 
@@ -51,44 +51,40 @@ Sunday                   125 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    7 hrs 54 mins       ███████████████████░░░░░░   76.28 % 
-Rust                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Markdown                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-conf                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Java                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Other                    12 hrs 26 mins      ████████████████████████░   96.57 % 
+conf                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Java                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Neovim                   5 hrs 42 mins       ██████████████░░░░░░░░░░░   55.07 % 
-Antigravity CLI          2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
-Codex CLI                2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-IntelliJ IDEA            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-WechatDevtools           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Neovim                   7 hrs 21 mins       ██████████████░░░░░░░░░░░   57.10 % 
+Antigravity CLI          5 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   40.87 % 
+IntelliJ IDEA            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+WechatDevtools           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 💻 Operating System: 
-Linux                    10 hrs 6 mins       ████████████████████████░   97.49 % 
-Mac                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Linux                    12 hrs 37 mins      ████████████████████████░   97.98 % 
+Mac                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 28 mins (91.47%)
+⏱ AI Coding Time: 12 hrs 34 mins (97.58%)
 
-✍️ 2,433 lines written by AI, 1 lines written by hand (99.96% AI-written)
+✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
-🔤 501,933 Input Tokens, 78,310 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $22.48 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 139 AI Prompts
-
-GPT                      2,443 lines         █████████████████████████   100.00 % 
+🧠 16 AI Sessions, 177 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📝 Concise Prompter — average 196 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.37% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 222 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -108,5 +104,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/qwerprog/qwerprog/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 05:28:14 UTC
+ Last Updated on 30/09/2026 05:16:00 UTC
 <!--END_SECTION:waka-->
