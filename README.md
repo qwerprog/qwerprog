@@ -18,11 +18,11 @@
 ## Coding This Week
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-435%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-130%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-133%20hrs%2017%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -51,25 +51,25 @@ Sunday                   125 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    6 hrs 55 mins       ████████████████████░░░░░   79.12 % 
-Rust                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-Markdown                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Other                    7 hrs 32 mins       ██████████████████░░░░░░░   73.73 % 
+Rust                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Bash                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔥 Editors: 
-Antigravity CLI          7 hrs 43 mins       ██████████████████████░░░   88.33 % 
-Neovim                   53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Zed                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Antigravity CLI          9 hrs 4 mins        ██████████████████████░░░   88.79 % 
+Neovim                   1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Zed                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 💻 Operating System: 
-Linux                    8 hrs 45 mins       █████████████████████████   100.00 % 
+Linux                    10 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 45 mins (100.0%)
+⏱ AI Coding Time: 10 hrs 8 mins (99.13%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -77,7 +77,7 @@ Linux                    8 hrs 45 mins       ███████████�
 
 💵 $0.02 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 137 AI Prompts
+🧠 33 AI Sessions, 153 AI Prompts
 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
@@ -105,5 +105,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/qwerprog/qwerprog/main/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2026 05:17:10 UTC
+ Last Updated on 06/10/2026 06:02:40 UTC
 <!--END_SECTION:waka-->
