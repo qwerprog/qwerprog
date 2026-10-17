@@ -18,9 +18,9 @@
 ## Coding This Week
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-163%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-168%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -51,46 +51,46 @@ Sunday                   125 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    32 hrs 10 mins      ███████████████████░░░░░░   75.76 % 
-Markdown                 4 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Image (png)              1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-YAML                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-TypeScript               32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Other                    34 hrs 34 mins      ██████████████████░░░░░░░   73.86 % 
+Markdown                 5 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+YAML                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Image (png)              1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+TypeScript               50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🔥 Editors: 
-Antigravity CLI          19 hrs 30 mins      ███████████░░░░░░░░░░░░░░   45.93 % 
-Ghostty                  14 hrs 37 mins      █████████░░░░░░░░░░░░░░░░   34.45 % 
-Neovim                   6 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Claude Code              1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-IntelliJ IDEA            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Ghostty                  20 hrs 42 mins      ███████████░░░░░░░░░░░░░░   44.22 % 
+Antigravity CLI          18 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   40.05 % 
+Neovim                   5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Claude Code              1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+IntelliJ IDEA            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Operating System: 
-Mac                      21 hrs 26 mins      █████████████░░░░░░░░░░░░   50.49 % 
-Linux                    21 hrs 1 min        ████████████░░░░░░░░░░░░░   49.51 % 
+Mac                      27 hrs 39 mins      ███████████████░░░░░░░░░░   59.07 % 
+Linux                    19 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   40.93 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 31 mins (83.66%)
+⏱ AI Coding Time: 38 hrs 46 mins (82.82%)
 
-✍️ 14,367 lines written by AI, 58 lines written by hand (99.6% AI-written)
+✍️ 14,496 lines written by AI, 68 lines written by hand (99.53% AI-written)
 
-🔤 64,024,707 Input Tokens, 3,311,667 Output Tokens
+🔤 72,876,153 Input Tokens, 3,673,187 Output Tokens
 
-💵 $159.48 Estimated AI Cost This Week
+💵 $181.69 Estimated AI Cost This Week
 
-🧠 107 AI Sessions, 549 AI Prompts
+🧠 110 AI Sessions, 642 AI Prompts
 
-Gemini                   6,735 lines         █████████████████████████   100.00 % 
+Gemini                   6,864 lines         █████████████████████████   100.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Antigravity-Cli          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.6% of written lines came from AI
-📝 Concise Prompter — average 270 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.51% of changed lines were hand-edited
+🤖 AI-Driven — 99.53% of written lines came from AI
+📝 Concise Prompter — average 236 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.57% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -110,5 +110,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/qwerprog/qwerprog/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2026 04:15:18 UTC
+ Last Updated on 17/10/2026 04:05:40 UTC
 <!--END_SECTION:waka-->
