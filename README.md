@@ -18,30 +18,30 @@
 ## Coding This Week
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-168%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-174%20hrs%203%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-🌆 Daytime                232 commits         ██████████░░░░░░░░░░░░░░░   39.79 % 
-🌃 Evening                186 commits         ████████░░░░░░░░░░░░░░░░░   31.90 % 
-🌙 Night                  87 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+🌞 Morning                78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+🌆 Daytime                231 commits         ██████████░░░░░░░░░░░░░░░   39.76 % 
+🌃 Evening                185 commits         ████████░░░░░░░░░░░░░░░░░   31.84 % 
+🌙 Night                  87 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   121 commits         █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-Tuesday                  48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-Wednesday                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-Thursday                 102 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Friday                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Saturday                 130 commits         ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-Sunday                   125 commits         █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+Monday                   120 commits         █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Tuesday                  48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Wednesday                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Thursday                 102 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Friday                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Saturday                 129 commits         ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+Sunday                   125 commits         █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
 ```
 
 
@@ -51,46 +51,46 @@ Sunday                   125 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    34 hrs 34 mins      ██████████████████░░░░░░░   73.86 % 
-Markdown                 5 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-YAML                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-Image (png)              1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-TypeScript               50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Other                    31 hrs 37 mins      █████████████████░░░░░░░░   69.90 % 
+Markdown                 6 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+YAML                     2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+TypeScript               1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Image (png)              1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 🔥 Editors: 
-Ghostty                  20 hrs 42 mins      ███████████░░░░░░░░░░░░░░   44.22 % 
-Antigravity CLI          18 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   40.05 % 
-Neovim                   5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Claude Code              1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-IntelliJ IDEA            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Ghostty                  26 hrs 15 mins      ███████████████░░░░░░░░░░   58.03 % 
+Antigravity CLI          12 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   27.61 % 
+Neovim                   4 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Claude Code              1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+IntelliJ IDEA            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 💻 Operating System: 
-Mac                      27 hrs 39 mins      ███████████████░░░░░░░░░░   59.07 % 
-Linux                    19 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   40.93 % 
+Mac                      33 hrs 17 mins      ██████████████████░░░░░░░   73.57 % 
+Linux                    11 hrs 57 mins      ███████░░░░░░░░░░░░░░░░░░   26.43 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 hrs 46 mins (82.82%)
+⏱ AI Coding Time: 35 hrs 7 mins (77.62%)
 
-✍️ 14,496 lines written by AI, 68 lines written by hand (99.53% AI-written)
+✍️ 17,515 lines written by AI, 61 lines written by hand (99.65% AI-written)
 
-🔤 72,876,153 Input Tokens, 3,673,187 Output Tokens
+🔤 89,288,783 Input Tokens, 4,564,928 Output Tokens
 
-💵 $181.69 Estimated AI Cost This Week
+💵 $225.50 Estimated AI Cost This Week
 
-🧠 110 AI Sessions, 642 AI Prompts
+🧠 103 AI Sessions, 663 AI Prompts
 
-Gemini                   6,864 lines         █████████████████████████   100.00 % 
+Gemini                   9,883 lines         █████████████████████████   100.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Antigravity-Cli          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.53% of written lines came from AI
-📝 Concise Prompter — average 236 characters per prompt
+🤖 AI-Driven — 99.65% of written lines came from AI
+📝 Concise Prompter — average 225 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.57% of changed lines were hand-edited
+🚀 High AI Trust — 0.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -110,5 +110,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/qwerprog/qwerprog/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 04:05:40 UTC
+ Last Updated on 18/10/2026 04:12:17 UTC
 <!--END_SECTION:waka-->
