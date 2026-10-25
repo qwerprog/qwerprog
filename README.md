@@ -18,30 +18,30 @@
 ## Coding This Week
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-461%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-464%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-184%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-188%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-🌆 Daytime                242 commits         ██████████░░░░░░░░░░░░░░░   40.00 % 
-🌃 Evening                196 commits         ████████░░░░░░░░░░░░░░░░░   32.40 % 
-🌙 Night                  89 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+🌞 Morning                78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+🌆 Daytime                248 commits         ██████████░░░░░░░░░░░░░░░   40.19 % 
+🌃 Evening                202 commits         ████████░░░░░░░░░░░░░░░░░   32.74 % 
+🌙 Night                  89 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   131 commits         █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-Tuesday                  48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Wednesday                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Thursday                 102 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Friday                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Saturday                 140 commits         ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
-Sunday                   125 commits         █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+Monday                   137 commits         ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+Tuesday                  48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Wednesday                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Thursday                 102 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Friday                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Saturday                 146 commits         ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
+Sunday                   125 commits         █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
 ```
 
 
@@ -51,44 +51,44 @@ Sunday                   125 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    24 hrs 13 mins      ████████████████░░░░░░░░░   64.81 % 
-Objective-C              3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Markdown                 2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-C                        1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Java                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Other                    22 hrs 19 mins      █████████████░░░░░░░░░░░░   52.95 % 
+Objective-C              8 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+Markdown                 4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+C                        3 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Java                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-Ghostty                  27 hrs 10 mins      ██████████████████░░░░░░░   72.66 % 
-Claude Code              8 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
-Emacs                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Neovim                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-Vim                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Ghostty                  24 hrs 25 mins      ███████████████░░░░░░░░░░   58.28 % 
+Claude Code              15 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   37.37 % 
+Emacs                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Neovim                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Vim                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Mac                      37 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      41 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 48 mins (39.62%)
+⏱ AI Coding Time: 20 hrs 12 mins (48.22%)
 
-✍️ 21,253 lines written by AI, 17 lines written by hand (99.92% AI-written)
+✍️ 22,190 lines written by AI, 17 lines written by hand (99.92% AI-written)
 
-🔤 58,670,088 Input Tokens, 4,743,986 Output Tokens
+🔤 43,107,773 Input Tokens, 4,507,187 Output Tokens
 
-💵 $158.24 Estimated AI Cost This Week
+💵 $114.43 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 242 AI Prompts
+🧠 16 AI Sessions, 165 AI Prompts
 
-Gemini                   13,215 lines        █████████████████████████   100.00 % 
+Gemini                   10,196 lines        █████████████████████████   100.00 % 
 Antigravity-Cli          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.92% of written lines came from AI
-📝 Concise Prompter — average 356 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 0.1% of changed lines were hand-edited
+📄 Detailed Prompter — average 1,096 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -108,5 +108,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/qwerprog/qwerprog/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2026 04:19:08 UTC
+ Last Updated on 25/10/2026 04:21:53 UTC
 <!--END_SECTION:waka-->
