@@ -1,6 +1,39 @@
-## Recent Digests
+### Chapman
 
-> From Douban
+Building useful tools and exploring systems programming — mostly CLI/TUI utilities, terminal tooling, and Linux/macOS workflows.
+
+[Blog](https://void-zero.me/blog/) · [Projects](https://void-zero.me/blog/projects) · [RSS](https://void-zero.me/blog/feed.xml) · [Douban](https://www.douban.com/people/268128201/)
+
+## Projects
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **[sole](https://github.com/qwerprog/sole)** | `C` `Obj-C` `Metal` | Zero-dependency macOS terminal emulator with a pure-C VT core and Metal GPU renderer |
+| **[bili-tools](https://github.com/qwerprog/bili-tools)** | `Rust` | Cross-platform Bilibili CLI toolbox (`bit`) for live streaming, media, danmaku TUI, and automation |
+| **[pan-tools](https://github.com/qwerprog/pan-tools)** | `Go` `TUI` | Modern Baidu Netdisk CLI & Bubble Tea interactive TUI client (`pant`) with chunked transfers |
+| **[aur-packages](https://github.com/qwerprog/aur-packages)** | `Shell` `AUR` | Arch Linux AUR packages (WeChat, QQ, Eudic) with native Wayland and Bubblewrap sandboxing |
+| **[video-transcriber](https://github.com/qwerprog/video-transcriber)** | `Vue` `FFmpeg` | One-stop video download & transcription workflow with summaries, subtitles, and AI Q&A |
+
+## Stack & Environment
+
+- **Languages** — `Rust` · `Go` · `C` · `Objective-C` · `Java` · `TypeScript` · `Shell`
+- **Focus** — CLI & TUI tooling, terminal/systems programming, backend services, Arch Linux packaging
+- **Environment** — `Arch Linux` · `macOS` · `Neovim` · `Emacs` · `IntelliJ IDEA` · [dotfiles](https://github.com/qwerprog/dotfiles)
+
+## Recent Writing
+
+<!-- BLOG-POST-LIST:START -->
+- [Arch Linux 设备适配记录：MACO-L-H 255 指纹识别驱动（Microarray 3274:8012）配置指南](https://void-zero.me/blog/posts/arch-linux-maco-l-h-255-fingerprint-driver) - 2026-07-21
+- [bili-tools v0.1.5 重磅更新：全平台自动化构建与包管理分发](https://void-zero.me/blog/posts/bili-tools-v0-1-5-release) - 2026-07-19
+- [Weekly #1 - Anything Goes](https://void-zero.me/blog/posts/weekly_001) - 2025-11-30
+- [Java 动态代理](https://void-zero.me/blog/posts/Dynamic_Proxy) - 2025-11-24
+- [多线程的状态](https://void-zero.me/blog/posts/thread) - 2025-11-23
+
+<!-- BLOG-POST-LIST:END -->
+
+## Digests & Listening
+
+### Douban
 
 <!-- DOUBAN-POST-LIST:START -->
 - [最近在读统治与教育](https://book.douban.com/subject/26675905/) - 2026-08-31
@@ -11,64 +44,43 @@
 
 <!-- DOUBAN-POST-LIST:END -->
 
-> Listening now
+### Listening
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31btad7bicxtayw57fcr4h6gomfm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31btad7bicxtayw57fcr4h6gomfm&redirect=true)
 
-## Coding This Week
+## Coding Metrics
+
+<details>
+<summary>Weekly coding & AI stats (WakaTime)</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-491%20hrs%2027%20mins-blue?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-491%20hrs%2027%20mins-blue?style=flat-square)
+![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-214%20hrs%202%20mins-blue?style=flat-square)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-214%20hrs%202%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                78 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-🌆 Daytime                387 commits         ███████████░░░░░░░░░░░░░░   43.14 % 
-🌃 Evening                343 commits         ██████████░░░░░░░░░░░░░░░   38.24 % 
-🌙 Night                  89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   276 commits         ████████░░░░░░░░░░░░░░░░░   30.77 % 
-Tuesday                  48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Wednesday                24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-Thursday                 102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Friday                   37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-Saturday                 285 commits         ████████░░░░░░░░░░░░░░░░░   31.77 % 
-Sunday                   125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Hong_Kong
 
-💬 Programming Languages: 
-Objective-C              4 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-C                        4 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Makefile                 2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Markdown                 2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Java                     2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+💬 Programming Languages:
+Objective-C              4 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.73 %
+C                        4 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.81 %
+Makefile                 2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.41 %
+Markdown                 2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 %
+Java                     2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 %
 
-🔥 Editors: 
-Claude Code              16 hrs 25 mins      ████████████████████░░░░░   80.56 % 
-IntelliJ IDEA            2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Emacs                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Neovim                   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Vim                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+🔥 Editors:
+Claude Code              16 hrs 25 mins      ████████████████████░░░░░   80.56 %
+IntelliJ IDEA            2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+Emacs                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Neovim                   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Vim                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
 
-💻 Operating System: 
-Mac                      20 hrs 22 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Mac                      20 hrs 22 mins      █████████████████████████   100.00 %
 ```
 
-🤖 **AI Coding This Week** 
+🤖 **AI Coding This Week**
 
 ```text
 ⏱ AI Coding Time: 16 hrs 41 mins (81.92%)
@@ -88,22 +100,7 @@ Mac                      20 hrs 22 mins      ███████████�
 🚀 High AI Trust — 1.57% of changed lines were hand-edited
 ```
 
-**I Mostly Code in Java** 
-
-```text
-Rust                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Shell                    2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Vue                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Ruby                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/qwerprog/qwerprog/main/assets/bar_graph.png)
-
-
- Last Updated on 01/11/2026 05:46:04 UTC
+Last Updated on 01/11/2026 05:46:04 UTC
 <!--END_SECTION:waka-->
+
+</details>
