@@ -54,42 +54,46 @@ Building useful tools and exploring systems programming — mostly CLI/TUI utili
 <summary>Weekly coding & AI stats (WakaTime)</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-521%20hrs%2026%20mins-blue?style=flat-square)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-294%20hrs%206%20mins-blue?style=flat-square)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    30 hrs              ████████████████████░░░░░   79.10 % 
-Java                     7 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-XML                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Other                    32 hrs 15 mins      ███████████████████░░░░░░   77.13 % 
+Java                     8 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+Markdown                 25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+zsh                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-IntelliJ IDEA            25 hrs 26 mins      █████████████████░░░░░░░░   67.05 % 
-Neovim                   6 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Emacs                    5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Zed                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Vim                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+IntelliJ IDEA            28 hrs 47 mins      █████████████████░░░░░░░░   68.82 % 
+Neovim                   7 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Emacs                    5 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Vim                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Zed                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Mac                      32 hrs 3 mins       █████████████████████░░░░   84.51 % 
-Linux                    5 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Mac                      35 hrs 51 mins      █████████████████████░░░░   85.73 % 
+Linux                    5 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 34 mins (83.2%)
+⏱ AI Coding Time: 35 hrs 14 mins (84.24%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 2,151,445 Input Tokens, 140,097 Output Tokens
+🔤 2,652,946 Input Tokens, 166,204 Output Tokens
 
-💵 $5.97 Estimated AI Cost This Week
+💵 $7.29 Estimated AI Cost This Week
 
-🧠 606 AI Sessions, 213 AI Prompts
+🧠 654 AI Sessions, 218 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Intellijidea             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -97,13 +101,13 @@ GPT                      0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 73 characters per prompt
+📝 Concise Prompter — average 71 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/11/2026 11:27:31 UTC
+ Last Updated on 24/11/2026 11:33:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
