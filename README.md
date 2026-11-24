@@ -26,7 +26,7 @@ Building useful tools and exploring systems programming — mostly CLI/TUI utili
 - [Arch Linux 设备适配记录：MACO-L-H 255 指纹识别驱动（Microarray 3274:8012）配置指南](https://void-zero.me/blog/posts/arch-linux-maco-l-h-255-fingerprint-driver) - 2026-07-21
 - [bili-tools v0.1.5 重磅更新：全平台自动化构建与包管理分发](https://void-zero.me/blog/posts/bili-tools-v0-1-5-release) - 2026-07-19
 - [Weekly #1 - Anything Goes](https://void-zero.me/blog/posts/weekly_001) - 2025-11-30
-- [Java 动态代理](https://void-zero.me/blog/posts/Dynamic_Proxy) - 2025-11-24
+- [Java 动态代理](https://void-zero.me/blog/posts/dynamic_proxy) - 2025-11-24
 - [多线程的状态](https://void-zero.me/blog/posts/thread) - 2025-11-23
 
 <!-- BLOG-POST-LIST:END -->
