@@ -18,7 +18,7 @@ Building useful tools and exploring systems programming — mostly CLI/TUI utili
 
 - **Languages** — `Rust` · `Go` · `C` · `Objective-C` · `Java` · `TypeScript` · `Shell`
 - **Focus** — CLI & TUI tooling, terminal/systems programming, backend services, Arch Linux packaging
-- **Environment** — `Arch Linux` · `macOS` · `Neovim` · `Emacs` · `IntelliJ IDEA` · [dotfiles](https://github.com/qwerprog/dotfiles)
+- **Environment** — `Arch Linux` · `macOS` · `Neovim` · `Emacs` · `IntelliJ IDEA`
 
 ## Recent Writing
 
@@ -46,7 +46,7 @@ Building useful tools and exploring systems programming — mostly CLI/TUI utili
 
 ### Listening
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31btad7bicxtayw57fcr4h6gomfm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31btad7bicxtayw57fcr4h6gomfm&redirect=true)
+Listening on [Spotify](https://open.spotify.com/user/31btad7bicxtayw57fcr4h6gomfm).
 
 ## Coding Metrics
 
@@ -54,9 +54,9 @@ Building useful tools and exploring systems programming — mostly CLI/TUI utili
 <summary>Weekly coding & AI stats (WakaTime)</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-521%20hrs%2026%20mins-blue?style=flat-square)
+![Code Time](https://img.shields.io/badge/Code%20Time-521%20hrs%2026%20mins-blue?style=flat-square)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-297%20hrs%2015%20mins-blue?style=flat-square)
+![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-297%20hrs%2015%20mins-blue?style=flat-square)
 
 📊 **This Week I Spent My Time On** 
 
@@ -90,8 +90,6 @@ Linux                    5 hrs 50 mins       ███░░░░░░░░�
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
 🔤 3,652,592 Input Tokens, 163,707 Output Tokens
-
-💵 $9.26 Estimated AI Cost This Week
 
 🧠 666 AI Sessions, 212 AI Prompts
 

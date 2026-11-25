@@ -1,0 +1,135 @@
+name: Sync Profile README
+
+on:
+  schedule:
+    - cron: "17 3 * * *" # Daily at 03:17 UTC (off-peak, after 00:00 UTC blog deploy)
+  workflow_dispatch:
+    inputs:
+      target:
+        description: "Which section to sync"
+        required: false
+        default: "all"
+        type: choice
+        options:
+          - all
+          - blog
+          - douban
+          - wakatime
+
+permissions: {}
+
+concurrency:
+  group: sync-profile-readme
+  cancel-in-progress: false
+
+jobs:
+  sync-readme:
+    name: Sync Profile README
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Configure Git for sequential RSS sync
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local pull.rebase true
+          git config --local rebase.autoStash true
+
+      - name: Update Blog Posts
+        id: blog_sync
+        if: ${{ github.event_name != 'workflow_dispatch' || inputs.target == 'all' || inputs.target == 'blog' }}
+        continue-on-error: true
+        uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # v1.9.7
+        with:
+          gh_token: ""
+          skip_commit: true
+          enable_keepalive: false
+          feed_list: "https://void-zero.me/blog/feed.xml"
+          max_post_count: 5
+          retry_count: 3
+          retry_wait_time: 10
+          title_max_length: 120
+          template: "- [$title]($url) - $date$newline"
+          date_format: "yyyy-mm-dd"
+          comment_tag_name: "BLOG-POST-LIST"
+          tag_post_pre_newline: true
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          item_exec: |
+            if (!post || typeof post.url !== 'string' || !/^https:\/\/void-zero\.me\/blog\/[A-Za-z0-9/_.%-]+$/.test(post.url)) {
+              post = null;
+            } else if (post.title) {
+              post.title = post.title.replace(/[\r\n\[\]\$]/g, ' ').replace(/\s+/g, ' ').trim();
+            }
+
+      - name: Warn on Blog Sync Degradation
+        if: steps.blog_sync.outcome == 'failure'
+        run: echo "::warning::Blog RSS sync failed; existing README content preserved."
+
+      - name: Update Douban Digests
+        id: douban_sync
+        if: ${{ github.event_name != 'workflow_dispatch' || inputs.target == 'all' || inputs.target == 'douban' }}
+        continue-on-error: true
+        uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # v1.9.7
+        with:
+          gh_token: ""
+          skip_commit: true
+          enable_keepalive: false
+          feed_list: "https://www.douban.com/feed/people/268128201/interests"
+          user_agent: "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+          max_post_count: 5
+          retry_count: 3
+          retry_wait_time: 10
+          title_max_length: 120
+          template: "- [$title]($url) - $date$newline"
+          date_format: "yyyy-mm-dd"
+          comment_tag_name: "DOUBAN-POST-LIST"
+          tag_post_pre_newline: true
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          item_exec: |
+            if (!post || typeof post.url !== 'string' || !/^https:\/\/(book|movie|music)\.douban\.com\/subject\/\d+\/?$/.test(post.url)) {
+              post = null;
+            } else if (post.title) {
+              post.title = post.title.replace(/[\r\n\[\]\$]/g, ' ').replace(/\s+/g, ' ').trim();
+            }
+
+      - name: Warn on Douban Sync Degradation
+        if: steps.douban_sync.outcome == 'failure'
+        run: echo "::warning::Douban RSS sync failed (likely rate-limit/anti-bot); existing README content preserved."
+
+      - name: Update WakaTime Stats
+        id: wakatime_sync
+        if: ${{ github.event_name != 'workflow_dispatch' || inputs.target == 'all' || inputs.target == 'wakatime' }}
+        continue-on-error: true
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: python3 scripts/update_wakatime.py
+
+      - name: Commit & Push README
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- README.md; then
+            echo "No changes to README.md; skipping commit."
+            exit 0
+          fi
+          git add README.md
+          git commit -m "chore: sync profile README"
+          AUTH=$(printf "x-access-token:%s" "$GH_TOKEN" | base64 -w0)
+          echo "::add-mask::${AUTH}"
+          git -c "http.https://github.com/.extraheader=AUTHORIZATION: basic ${AUTH}" push
+
+      - name: Fail on WakaTime hard error
+        if: steps.wakatime_sync.outcome == 'failure'
+        run: |
+          echo "::error::WakaTime sync failed with a hard error (check WAKATIME_API_KEY or README markers)."
+          exit 1
