@@ -54,8 +54,8 @@ Listening on [Spotify](https://open.spotify.com/user/31btad7bicxtayw57fcr4h6gomf
 <summary>Weekly coding & AI stats (WakaTime)</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-521%20hrs%2026%20mins-blue?style=flat-square)
-![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-297%20hrs%2015%20mins-blue?style=flat-square)
+![Code Time](https://img.shields.io/badge/Code%20Time-521%20hrs%2028%20mins-blue?style=flat-square)
+![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-299%20hrs%204%20mins-blue?style=flat-square)
 
 📊 **This Week I Spent My Time On**
 
@@ -63,45 +63,45 @@ Listening on [Spotify](https://open.spotify.com/user/31btad7bicxtayw57fcr4h6gomf
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages:
-Other                    23 hrs 52 mins      ██████████████████░░░░░░░   73.51 %
-Java                     7 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.26 %
-Markdown                 25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Other                    25 hrs 28 mins      ███████████████████░░░░░░   77.78 %
+Java                     6 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.10 %
+Markdown                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 Swift                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 
 🔥 Editors:
-IntelliJ IDEA            16 hrs 50 mins      █████████████░░░░░░░░░░░░   51.85 %
-Neovim                   10 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   31.26 %
-Emacs                    5 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
-Zed                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+IntelliJ IDEA            18 hrs 28 mins      ██████████████░░░░░░░░░░░   56.42 %
+Neovim                   10 hrs 6 mins       ████████░░░░░░░░░░░░░░░░░   30.86 %
+Emacs                    3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
+Zed                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 Vim                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 
 💻 Operating System:
-Mac                      26 hrs 56 mins      █████████████████████░░░░   82.98 %
-Linux                    5 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.02 %
+Mac                      28 hrs 35 mins      ██████████████████████░░░   87.29 %
+Linux                    4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 %
 ```
 
 🤖 **AI Coding This Week**
 
 ```text
-⏱ AI Coding Time: 26 hrs 27 mins (81.49%)
+⏱ AI Coding Time: 28 hrs 3 mins (85.7%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 2,886,090 Input Tokens, 100,909 Output Tokens
+🔤 3,220,480 Input Tokens, 123,883 Output Tokens
 
-🧠 393 AI Sessions, 105 AI Prompts
+🧠 395 AI Sessions, 113 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 160 characters per prompt
+📝 Concise Prompter — average 149 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
-Last Updated on 26/11/2026 12:33:44 UTC
+Last Updated on 27/11/2026 12:19:19 UTC
 <!--END_SECTION:waka-->
 
 </details>
