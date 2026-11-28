@@ -63,28 +63,28 @@ Listening on [Spotify](https://open.spotify.com/user/31btad7bicxtayw57fcr4h6gomf
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages:
-Other                    25 hrs 28 mins      ███████████████████░░░░░░   77.78 %
-Java                     6 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.10 %
-Markdown                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Other                    25 hrs 28 mins      ████████████████████░░░░░   79.54 %
+Java                     5 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.36 %
+Markdown                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 Swift                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 
 🔥 Editors:
-IntelliJ IDEA            18 hrs 28 mins      ██████████████░░░░░░░░░░░   56.42 %
-Neovim                   10 hrs 6 mins       ████████░░░░░░░░░░░░░░░░░   30.86 %
-Emacs                    3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
-Zed                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Vim                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+IntelliJ IDEA            18 hrs 28 mins      ██████████████░░░░░░░░░░░   57.69 %
+Neovim                   10 hrs 6 mins       ████████░░░░░░░░░░░░░░░░░   31.56 %
+Emacs                    3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.16 %
+Zed                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Vim                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 
 💻 Operating System:
-Mac                      28 hrs 35 mins      ██████████████████████░░░   87.29 %
-Linux                    4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 %
+Mac                      28 hrs 35 mins      ██████████████████████░░░   89.26 %
+Linux                    3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.74 %
 ```
 
 🤖 **AI Coding This Week**
 
 ```text
-⏱ AI Coding Time: 28 hrs 3 mins (85.7%)
+⏱ AI Coding Time: 28 hrs 3 mins (87.64%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -101,7 +101,7 @@ Gemini                   0 lines             ░░░░░░░░░░░�
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
-Last Updated on 27/11/2026 12:19:19 UTC
+Last Updated on 28/11/2026 11:44:15 UTC
 <!--END_SECTION:waka-->
 
 </details>
